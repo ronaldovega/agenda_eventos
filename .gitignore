@@ -1,0 +1,19 @@
+# Entorno virtual
+2 entorno/
+3
+4 # Archivos temporales de Python
+5 __pycache__/
+6 *.py[cod]
+7
+8 # Django
+9 db.sqlite3
+10 media/
+11 staticfiles/
+12
+13 # Secretos (los usaremos en la clase 8)
+14 .env
+15
+16 # Editor y sistema operativo
+17 .vscode/
+18 Thumbs.db
+19 .DS_Store
